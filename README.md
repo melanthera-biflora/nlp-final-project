@@ -85,16 +85,5 @@ This project is implemented in Python using Jupyter Notebooks. Key libraries inc
 
 All experiments were conducted in a notebook-based environment.
 
----
 
-## Notes
 
-- The repository is organized to support reproducibility of experiments.
-- Each notebook is self-contained and corresponds to a specific stage of the project.
-- Figures and evaluation outputs are generated directly within the notebooks.
-
----
-
-## Author
-
-Final project for an NLP course.
