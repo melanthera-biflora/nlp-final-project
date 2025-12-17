@@ -14,17 +14,18 @@ The task is formulated as a three-class classification problem, where each text 
 
 ## Repository Structure
 
+```text
 nlp-final-project/
 ├── data/
-│ ├── train_clean.csv # Cleaned training dataset
-│ └── test_clean.csv # Cleaned test dataset
+│   ├── train_clean.csv          # Cleaned training dataset
+│   └── test_clean.csv           # Cleaned test dataset
 │
 ├── models/
-│ ├── NLP_FinalProject_LogisticRegression.ipynb
-│ ├── NLP_Final_Project_NaivesBayes.ipynb
-│ ├── NLP_Final_Project_BERT_Finetune.ipynb
-│ ├── NLP_Final_Project_RoBERTa_Finetune.ipynb
-│ └── NLP_Final_Project_climateBERT_Finetune.ipynb
+│   ├── NLP_FinalProject_LogisticRegression.ipynb
+│   ├── NLP_Final_Project_NaivesBayes.ipynb
+│   ├── NLP_Final_Project_BERT_Finetune.ipynb
+│   ├── NLP_Final_Project_RoBERTa_Finetune.ipynb
+│   └── NLP_Final_Project_climateBERT_Finetune.ipynb
 │
 ├── NLP_FinalProject_Data_Analysis.ipynb
 ├── NLP_Final_Project_DataProcessing.ipynb
